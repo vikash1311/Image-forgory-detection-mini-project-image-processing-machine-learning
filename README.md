@@ -24,7 +24,7 @@ $ cd Image_Manipulation_Detection_System_Python
 
 Next, run the **detect.py** script, providing the image you wish to evaluate:
 ```
-$ python GUI.py
+$ python mugui.py
 ```
 
 Once finished, details on the image will be reported in the terminal. Supplemental images generated during copy-move forgery detection can be found in the output directory.
